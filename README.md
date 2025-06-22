@@ -1,4 +1,4 @@
-# 🍏 apple-intelligence-agent (A Mock Siri That Actually Remembers)
+# 🍏 adk-apple-intelligence (A Mock Siri That Actually Remembers)
 
 This is a lightweight, Gemini-powered mock assistant built with **Google’s Agent Development Kit (ADK)** — inspired by Apple’s now-infamous Bella Ramsey ad, where Siri magically remembered “that guy from the café”… and then Apple quietly deleted the ad.
 
