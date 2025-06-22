@@ -74,6 +74,29 @@ adk web
 
 Then open the link in your terminal (usually http://localhost:8000), select apple_intelligence in the top-left dropdown, and chat with your assistant.
 
+---
+
+## 🐳 Run with Docker
+
+1. Build the Docker image:
+
+```bash
+docker build -t apple-intelligence .
+```
+
+2. Make sure your `.env` file is present in the project root (it will be copied into the container).
+
+3. Run the container, mapping the web port (default 8000):
+
+```bash
+docker run --rm -p 8000:8000 apple-intelligence
+```
+
+4. Open [http://localhost:8000](http://localhost:8000) in your browser.
+
+You can now use the agent via the web UI, just as you would when running locally.
+
+--
 
 ✨ Why This Exists
 This is a fun and slightly cheeky response to Apple’s over-promised ad. It's not production-ready—but it proves that real context-aware assistants are entirely doable with the right structure and tools.
