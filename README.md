@@ -99,12 +99,15 @@ You can now use the agent via the web UI, just as you would when running locally
 ---
 
 ✨ Why This Exists
+
 This is a fun and slightly cheeky response to Apple’s over-promised ad. It's not production-ready—but it proves that real context-aware assistants are entirely doable with the right structure and tools.
 
 
 📖 Blog Post
+
 https://medium.com/@nilsonsaless/what-was-the-name-of-that-guy-rebuilding-apples-missing-intelligence-with-google-adk-23ff389ce354
 
 
 🧩 License
+
 MIT License. Build something smarter than a keynote demo.
