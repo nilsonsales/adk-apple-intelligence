@@ -80,7 +80,7 @@ This is a fun and slightly cheeky response to Apple’s over-promised ad. It's n
 
 
 📖 Blog Post
-
+https://medium.com/@nilsonsaless/what-was-the-name-of-that-guy-rebuilding-apples-missing-intelligence-with-google-adk-23ff389ce354
 
 
 🧩 License
