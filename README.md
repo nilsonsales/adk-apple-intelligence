@@ -96,7 +96,7 @@ docker run --rm -p 8000:8000 apple-intelligence
 
 You can now use the agent via the web UI, just as you would when running locally.
 
---
+---
 
 ✨ Why This Exists
 This is a fun and slightly cheeky response to Apple’s over-promised ad. It's not production-ready—but it proves that real context-aware assistants are entirely doable with the right structure and tools.
