@@ -73,3 +73,15 @@ adk web
 ```
 
 Then open the link in your terminal (usually http://localhost:8000), select apple_intelligence in the top-left dropdown, and chat with your assistant.
+
+
+✨ Why This Exists
+This is a fun and slightly cheeky response to Apple’s over-promised ad. It's not production-ready—but it proves that real context-aware assistants are entirely doable with the right structure and tools.
+
+
+📖 Blog Post
+
+
+
+🧩 License
+MIT License. Build something smarter than a keynote demo.
